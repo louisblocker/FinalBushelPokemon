@@ -1,0 +1,59 @@
+#dtname{
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-size: 72pt;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    width: 55%;
+    height: 96px;
+    color:white;
+    align-content: center;
+    align-self: center;
+    white-space: nowrap;
+    margin: 50px;
+  }
+
+  #DTZoomTable {
+    background: white;
+    margin-bottom: 3%;
+    width: 65%;
+    height: 90%;
+    align-items: center;
+    padding: 2.5%;
+  }
+
+  #zoomdesktopbackarrow{
+    background-color: rgb(57, 107, 109);
+    display: inline-block;
+    margin-top: 25%;
+    margin-left: 25%;
+    margin-bottom: 25%;
+    margin-right: 25%;
+    max-height: 16px;
+    min-width: 16px;
+    min-height: 16px;
+    max-width: 16px;
+    border: solid cadetblue;
+    border-width: 0px 8px 8px 0px;
+    transform: rotate(135deg);
+  }
+  #zoomdesktopbackarrow:before {
+    content: "";
+  display: inline-block;
+  position: absolute;
+  right: -4.5px;
+  bottom: 3px;
+  border-width: 0;
+  background: cadetblue;
+  width: 24px;
+  height: 8px;
+  transform: rotate(45deg);
+  }
+  
+
+  .dtzoomimage {
+      width: 104px;
+      height: 104px;
+      margin: 48px
+  }

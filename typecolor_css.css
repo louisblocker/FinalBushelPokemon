@@ -1,0 +1,217 @@
+/* Colors taken from Bulbapaedia using the video game palette, border is 'light', font is regular: https://bulbapedia.bulbagarden.net/wiki/Category:Type_color_templates */
+
+.BUG {
+    border: solid #C6D16E 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: #A8B820;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.DARK {
+    border: solid #A29288	 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: #705848	;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.DRAGON {
+    border: solid #A27DFA	 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: #7038F8	;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.ELECTRIC {
+    border: solid #FAE078 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#F8D030;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.FAIRY {
+    border: solid #F4BDC9 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#EE99AC;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.FIGHTING {
+    border: solid #D67873 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#C03028;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.FIRE {
+    border: solid #F5AC78 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#F08030;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.FLYING {
+    border: solid #C6B7F5 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#A890F0;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.GHOST {
+    border: solid #A292BC 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#705898;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.GRASS {
+    border: solid #A7DB8D 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#78C850;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.GROUND {
+    border: solid #EBD69D 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#E0C068;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+.ICE {
+    border: solid #BCE6E6 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#98D8D8;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+.NORMAL {
+    border: solid #C6C6A7 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#A8A878;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+.POISON {
+    border: solid #C183C1 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#A040A0;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+.PSYCHIC {
+    border: solid #FA92B2 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#F85888;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+.ROCK {
+    border: solid #D1C17D 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#B8A038;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+.STEEL {
+    border: solid #D1D1E0 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#B8B8D0;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+.WATER {
+    border: solid #9DB7F5 2px;
+    border-radius: 2px;
+    padding: 2px;
+    color: 	#6890F0;
+    font-size: 12pt;
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    margin: 4px
+}
+
+
+
+
+
+ 
